@@ -1,0 +1,11 @@
+../Core/Src/freertos.c:112:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:126:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:173:6:lcdHandlerTask	1
+../Core/Src/freertos.c:229:6:myPrintf	3
+../Core/Src/freertos.c:254:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/freertos.c:270:6:HAL_UART_RxCpltCallback	4
+../Core/Src/freertos.c:302:9:isModbusFrameReady	3
+../Core/Src/freertos.c:323:6:RS485_Transmit	1
+../Core/Src/freertos.c:340:6:scanMaster	7
+../Core/Src/freertos.c:407:6:ModbusSlaveTask	5
+../Core/Src/freertos.c:480:6:consoleTask	11
