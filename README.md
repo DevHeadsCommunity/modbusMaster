@@ -142,5 +142,4 @@ Watch the full implementation of Modbus RTU Master-Slave Firmware on STM32 MCU:
 
 **Thanks for being a DevHead!**  
 Join our community: [https://discord.gg/DevHeads](https://discord.gg/DevHeads)  
-'TIL NEXT TIME!  
 Devheads.io – A place for every dev
